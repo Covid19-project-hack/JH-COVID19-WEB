@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "ICMR Regional Medical Research Centre, Bhubaneshwar High throughput Laboratory ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " All India Institute of Medical Sciences, Bhubaneshwar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " SCB Medical College and Hospital, Cuttack",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " MKCG Medical College, Berhampur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Ispat General Hospital, Rourkela ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Veer Surendra Sai institute of Medical Science Research, Sambalpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Institute of Life Sciences, Bhubaneshwar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " ICAR International Centre for Foot and Mouth Disease, Khordha, Odisha",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Indian Institute of Science Education and Research IISER , Berhampur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " Bhima Bhoi Medical College and Hospital, Bolangir",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Pandit Raghunath Murmu Medical",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "12",
+            "name": "College, Baripada ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "13",
+            "name": " SLN Medical College and Hospital, Koraput",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "14",
+            "name": " Tribal Field Unit of ICMR RMRC, Bhawanipatna, Kalahandi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "15",
+            "name": " Tribal Field Unit of ICMR RMRC, Rayagada",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "16",
+            "name": " Fakir Mohan Medical College and Hospital, Balasore ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "17",
+            "name": "Dept of Lab Services, Apollo Hospitals, Bhubaneswar",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " IMS SUM Hospital, Bhubaneswar",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " InDNA Life Sciences Pvt Ltd, nd Floor, KIIT TBI, Bhubaneswar ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Central Lab, AMRI Hospitals, Plot No , Khandagiri, Bhubaneswar",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "21",
+            "name": " Kalinga Institute of Medical Science KIMS , Dept of Microbiology, Bhubaneswar ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        }
+    ]
+}
