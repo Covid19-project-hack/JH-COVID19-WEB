@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Medical Emergency",
+            "phone_number": "108"
+        },
+        {
+            "sno": "2",
+            "name": "Covid-19 Helpline",
+            "phone_number": "181"
+        },
+        {
+            "sno": "3",
+            "name": "Helpline number for COVID-19",
+            "phone_number": "0651 2490037, 0651 2490055, 0651 2490052, 0651 2490058, 0651 2490083, 0651 2490092, 0651 2490104, 0651 2490125, 0651 2490127, 0651 2490128."
+        },
+        {
+            "sno": "4",
+            "name": "DISTRICT COVID CONTROL ROOM",
+            "phone_number": "1950"
+        }
+    ]
+}

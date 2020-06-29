@@ -2,129 +2,183 @@
     "data": [
         {
             "sno": "1",
-            "name": "ICMR Regional Medical Research Centre, Bhubaneshwar High throughput Laboratory ",
+            "name": "MGM Medical College Hospital, Jamshedpur ",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " All India Institute of Medical Sciences, Bhubaneshwar",
+            "name": " Rajendra Institute of Medical Sciences, Ranchi",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "3",
-            "name": " SCB Medical College and Hospital, Cuttack",
+            "name": " Patliputra Medical College Hospital, Dhanbad",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "4",
-            "name": " MKCG Medical College, Berhampur",
+            "name": " Itki Aarogyashala, Ranchi ",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "5",
-            "name": " Ispat General Hospital, Rourkela ",
+            "name": " District Hospital, Bokaro",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "6",
-            "name": " Veer Surendra Sai institute of Medical Science Research, Sambalpur",
+            "name": " District Hospital, Chatra",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "7",
-            "name": " Institute of Life Sciences, Bhubaneshwar",
+            "name": " District Hospital, Deoghar",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "8",
-            "name": " ICAR International Centre for Foot and Mouth Disease, Khordha, Odisha",
+            "name": " District Hospital, Dumka",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "9",
-            "name": " Indian Institute of Science Education and Research IISER , Berhampur",
+            "name": " District Hospital, Garhwa",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "10",
-            "name": " Bhima Bhoi Medical College and Hospital, Bolangir",
+            "name": " District Hospital, Giridih",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "11",
-            "name": " Pandit Raghunath Murmu Medical",
+            "name": " District Hospital, Godda",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "12",
-            "name": "College, Baripada ",
+            "name": " District Hospital, Hazaribag",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "13",
-            "name": " SLN Medical College and Hospital, Koraput",
+            "name": " District Hospital, Kodarma",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "14",
-            "name": " Tribal Field Unit of ICMR RMRC, Bhawanipatna, Kalahandi",
+            "name": " District Hospital, Lathehar",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "15",
-            "name": " Tribal Field Unit of ICMR RMRC, Rayagada",
+            "name": " District Hospital, Pakur",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "16",
-            "name": " Fakir Mohan Medical College and Hospital, Balasore ",
+            "name": " District Hospital, Palamu",
             "type": "Government",
-            "test_type": "True NAT"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "17",
-            "name": "Dept of Lab Services, Apollo Hospitals, Bhubaneswar",
-            "type": "Private",
+            "name": " District Hospital, Pashchimi Singhbhum",
+            "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "18",
-            "name": " IMS SUM Hospital, Bhubaneswar",
-            "type": "Private",
+            "name": " District Hospital, Ranchi",
+            "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "19",
-            "name": " InDNA Life Sciences Pvt Ltd, nd Floor, KIIT TBI, Bhubaneswar ",
-            "type": "Private",
-            "test_type": "RT-PCR"
+            "name": " District Hospital, Sahibganj",
+            "type": "Government",
+            "test_type": "TrueNat"
         },
         {
             "sno": "20",
-            "name": " Central Lab, AMRI Hospitals, Plot No , Khandagiri, Bhubaneswar",
-            "type": "Private",
-            "test_type": "CB NAAT"
+            "name": " District Hospital, Dhanbad",
+            "type": "Government",
+            "test_type": "TrueNat"
         },
         {
             "sno": "21",
-            "name": " Kalinga Institute of Medical Science KIMS , Dept of Microbiology, Bhubaneswar ",
-            "type": "Private",
+            "name": " District Hospital, Gumla",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "22",
+            "name": " District Hospital, Jamtara",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "23",
+            "name": " District Hospital, Khunti",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "24",
+            "name": " District Hospital, Lohardaga ",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "25",
+            "name": " District Hospital, Purbi Singhbum",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "26",
+            "name": " District Hospital, Ramgarh",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "27",
+            "name": " District Hospital, Saraikela Kharsawan",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "28",
+            "name": " District Hospital, Simdega ",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "29",
+            "name": " Military Hospital, Namkum, Ranchi",
+            "type": "Government",
             "test_type": "CB NAAT"
+        },
+        {
+            "sno": "30",
+            "name": "Tata Main Hospital (Dept of Pathology), Tata Steel, Bistupur, Jamshedpur",
+            "type": "Private",
+            "test_type": "RT-PCR"
         }
     ]
 }
